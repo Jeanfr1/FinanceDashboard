@@ -1,6 +1,5 @@
 # SmartFinance Dashboard
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=SmartFinance+Dashboard+Banner)
 
 SmartFinance Dashboard is a comprehensive personal finance management application built with ASP.NET Core backend and React/Next.js frontend. It provides users with tools to track their expenses, manage budgets, and gain insights into their financial health.
 
@@ -71,11 +70,6 @@ SmartFinance Dashboard is a comprehensive personal finance management applicatio
 4. View and manage your financial data
 5. Use the dashboard to track your spending patterns
 
-## Screenshots
-
-![Login Screen](https://via.placeholder.com/800x400.png?text=Login+Screen)
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+View)
-![Expense Management](https://via.placeholder.com/800x400.png?text=Expense+Management)
 
 ## Contributing
 
@@ -93,6 +87,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any inquiries, please contact:
-- Jean François
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Josean Araujo
+- Email: [contactjoseanaraujo@gmail.com](mailto:contactjoseanaraujo@gmail.com)
 - GitHub: [Jeanfr1](https://github.com/Jeanfr1)
